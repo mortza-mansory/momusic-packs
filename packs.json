@@ -72,6 +72,141 @@
       "file": "packs/binary-hood.zip",
       "thumb": "thumbs/binary-hood.jpg",
       "sizeKb": 180
+    },
+    {
+      "id": "spectral-dragons",
+      "name": "Spectral Dragons",
+      "description": "A pale seer wreathed in violet ghost-dragons; rings coil out on every kick.",
+      "author": "momusic",
+      "file": "packs/spectral-dragons.zip",
+      "thumb": "thumbs/spectral-dragons.jpg",
+      "sizeKb": 193
+    },
+    {
+      "id": "puddle-reflection",
+      "name": "Puddle Reflection",
+      "description": "A bunny-eared girl mirrored in rain water; kick ripples and icy shore bars.",
+      "author": "momusic",
+      "file": "packs/puddle-reflection.zip",
+      "thumb": "thumbs/puddle-reflection.jpg",
+      "sizeKb": 206
+    },
+    {
+      "id": "ember-butterflies",
+      "name": "Ember Butterflies",
+      "description": "Glowing ember butterflies rise from her hands on the beat.",
+      "author": "momusic",
+      "file": "packs/ember-butterflies.zip",
+      "thumb": "thumbs/ember-butterflies.jpg",
+      "sizeKb": 69
+    },
+    {
+      "id": "moonlit-witch",
+      "name": "Moonlit Witch",
+      "description": "A blue moon-witch with a glowing rune; kick rings bloom beside her face.",
+      "author": "momusic",
+      "file": "packs/moonlit-witch.zip",
+      "thumb": "thumbs/moonlit-witch.jpg",
+      "sizeKb": 151
+    },
+    {
+      "id": "rain-blade",
+      "name": "Rain Blade",
+      "description": "A katana girl standing in the rain; golden beat-drops fall through the storm.",
+      "author": "momusic",
+      "file": "packs/rain-blade.zip",
+      "thumb": "thumbs/rain-blade.jpg",
+      "sizeKb": 171
+    },
+    {
+      "id": "dragon-fairy",
+      "name": "Dragon Fairy",
+      "description": "A sepia dragon fairy in bronze light; a small speaker keeps her beat.",
+      "author": "momusic",
+      "file": "packs/dragon-fairy.zip",
+      "thumb": "thumbs/dragon-fairy.jpg",
+      "sizeKb": 187
+    },
+    {
+      "id": "horned-muse",
+      "name": "Horned Muse",
+      "description": "A quiet horned girl in grey; violet rings orbit her on every kick.",
+      "author": "momusic",
+      "file": "packs/horned-muse.zip",
+      "thumb": "thumbs/horned-muse.jpg",
+      "sizeKb": 82
+    },
+    {
+      "id": "silent-visor",
+      "name": "Silent Visor",
+      "description": "A masked figure in the dust; the visor flares rings on deep bass.",
+      "author": "momusic",
+      "file": "packs/silent-visor.zip",
+      "thumb": "thumbs/silent-visor.jpg",
+      "sizeKb": 186
+    },
+    {
+      "id": "koi-dream",
+      "name": "Koi Dream",
+      "description": "Drowning in blue with the koi; bubbles rise on the beat over a koi-orange journey glow.",
+      "author": "momusic",
+      "file": "packs/koi-dream.zip",
+      "thumb": "thumbs/koi-dream.jpg",
+      "sizeKb": 208
+    },
+    {
+      "id": "dark-moon",
+      "name": "Dark Moon",
+      "description": "A tiny figure before a star-filled dark moon; a tide heartbeat runs below.",
+      "author": "momusic",
+      "file": "packs/dark-moon.zip",
+      "thumb": "thumbs/dark-moon.jpg",
+      "sizeKb": 212
+    },
+    {
+      "id": "witch-and-wolf",
+      "name": "Witch and Wolf",
+      "description": "A snow witch faces her wolf; a small speaker warms the dark of her cloak.",
+      "author": "momusic",
+      "file": "packs/witch-and-wolf.zip",
+      "thumb": "thumbs/witch-and-wolf.jpg",
+      "sizeKb": 184
+    },
+    {
+      "id": "ascii-violet",
+      "name": "Ascii Violet",
+      "description": "A face rendered in violet ASCII; a kick-sharpened signal line over static bars.",
+      "author": "momusic",
+      "file": "packs/ascii-violet.zip",
+      "thumb": "thumbs/ascii-violet.jpg",
+      "sizeKb": 351
+    },
+    {
+      "id": "moon-phases",
+      "name": "Moon Phases",
+      "description": "The moon witch among her phases; a progress glow travels the orbit line.",
+      "author": "momusic",
+      "file": "packs/moon-phases.zip",
+      "thumb": "thumbs/moon-phases.jpg",
+      "sizeKb": 158
+    },
+    {
+      "id": "snow-blade",
+      "name": "Snow Blade",
+      "description": "A kneeling swordswoman in falling snow; deep bass throws frost motes outward.",
+      "author": "momusic",
+      "file": "packs/snow-blade.zip",
+      "thumb": "thumbs/snow-blade.jpg",
+      "sizeKb": 171
+    },
+    {
+      "id": "seraph",
+      "name": "Seraph",
+      "description": "An armoured seraph in golden cloud-light; glory rings burst on every kick.",
+      "author": "momusic",
+      "file": "packs/seraph.zip",
+      "thumb": "thumbs/seraph.jpg",
+      "sizeKb": 227
     }
   ]
 }
