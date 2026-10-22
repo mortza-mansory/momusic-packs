@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "apex-room",
+      "name": "Apex Room",
+      "description": "A dusk arena with a neon speaker, portal ring and champion sigil.",
+      "author": "momusic",
+      "file": "packs/apex-room.zip",
+      "thumb": "thumbs/apex-room.jpg",
+      "sizeKb": 184
+    },
+    {
+      "id": "moonlight-sea",
+      "name": "Moonlight Sea",
+      "description": "A sailboat on a moonlit shore; tide-line heartbeat and waves of bars.",
+      "author": "momusic",
+      "file": "packs/moonlight-sea.zip",
+      "thumb": "thumbs/moonlight-sea.jpg",
+      "sizeKb": 160
+    },
+    {
+      "id": "orange-dusk",
+      "name": "Orange Dusk",
+      "description": "Anime sunset hill. Beat-thrown ember motes and a song-coloured glow.",
+      "author": "momusic",
+      "file": "packs/orange-dusk.zip",
+      "thumb": "thumbs/orange-dusk.jpg",
+      "sizeKb": 110
+    },
+    {
+      "id": "blood-moon",
+      "name": "Blood Moon",
+      "description": "The red moon blooms rings on every kick over a dark pulse line.",
+      "author": "momusic",
+      "file": "packs/blood-moon.zip",
+      "thumb": "thumbs/blood-moon.jpg",
+      "sizeKb": 103
+    },
+    {
+      "id": "aurora-shore",
+      "name": "Aurora Shore",
+      "description": "Northern lights over sea stacks; icy bars, ember throws on deep bass.",
+      "author": "momusic",
+      "file": "packs/aurora-shore.zip",
+      "thumb": "thumbs/aurora-shore.jpg",
+      "sizeKb": 83
+    },
+    {
+      "id": "ascii-ghost",
+      "name": "Ascii Ghost",
+      "description": "A dotted terminal ghost. Kick-sharpened signal line and rising rings.",
+      "author": "momusic",
+      "file": "packs/ascii-ghost.zip",
+      "thumb": "thumbs/ascii-ghost.jpg",
+      "sizeKb": 53
+    },
+    {
+      "id": "ascii-muse",
+      "name": "Ascii Muse",
+      "description": "An ASCII portrait; a bone-white speaker lives in the black beside her.",
+      "author": "momusic",
+      "file": "packs/ascii-muse.zip",
+      "thumb": "thumbs/ascii-muse.jpg",
+      "sizeKb": 579
+    },
+    {
+      "id": "binary-hood",
+      "name": "Binary Hood",
+      "description": "A figure made of code. Falling data rain on the beat, progress glow.",
+      "author": "momusic",
+      "file": "packs/binary-hood.zip",
+      "thumb": "thumbs/binary-hood.jpg",
+      "sizeKb": 180
+    }
+  ]
+}
