@@ -32,3 +32,22 @@ downloads the zips listed in it.
   small files; don't push videos or huge images.
 - Never rename a published pack file — installed users' catalogs
   point at these paths. Add new files instead.
+
+## Pack themes (from this kit onward)
+
+Every entry in `packs.json` can carry a `theme` with three hex
+colours — `accent`, `background` and `surface`:
+
+```json
+"theme": {
+  "accent": "#B7D8E1",
+  "background": "#24292C",
+  "surface": "#6A7073"
+}
+```
+
+When a user downloads the pack and selects its animation, the
+app automatically wears that theme. A pack's own css `theme:`
+header wins if it declares one; otherwise the catalog theme is
+used. Themes are optional: an entry without one simply leaves
+the app's current colours alone.
