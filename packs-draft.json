@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "lamp-lit-guitar",
+      "name": "Lamp Lit Guitar",
+      "description": "Hitori under one lamp in a dark room, guitar in hand; the light breathes with the song.",
+      "author": "momusic",
+      "file": "packs/lamp-lit-guitar.zip",
+      "thumb": "thumbs/lamp-lit-guitar.jpg",
+      "sizeKb": 92,
+      "theme": {
+        "accent": "#FF8FB3",
+        "background": "#0B0D10",
+        "surface": "#1A2028"
+      },
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "dusk-guitar-case",
+      "name": "Dusk Guitar Case",
+      "description": "Ryo at dusk under the power lines, guitar case on her back, sky going pink.",
+      "author": "momusic",
+      "file": "packs/dusk-guitar-case.zip",
+      "thumb": "thumbs/dusk-guitar-case.jpg",
+      "sizeKb": 281,
+      "theme": {
+        "accent": "#9FB8D8",
+        "background": "#0B0D10",
+        "surface": "#1A2028"
+      },
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "garden-steps",
+      "name": "Garden Steps",
+      "description": "A girl on sunlit steps among the plants, guitar resting nearby.",
+      "author": "momusic",
+      "file": "packs/garden-steps.zip",
+      "thumb": "thumbs/garden-steps.jpg",
+      "sizeKb": 639,
+      "theme": {
+        "accent": "#8FD0A0",
+        "background": "#0B0D10",
+        "surface": "#1A2028"
+      },
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "stage-lights",
+      "name": "Stage Lights",
+      "description": "The band under purple stage lights, the room dark around them.",
+      "author": "momusic",
+      "file": "packs/stage-lights.zip",
+      "thumb": "thumbs/stage-lights.jpg",
+      "sizeKb": 279,
+      "theme": {
+        "accent": "#C79BFF",
+        "background": "#0B0D10",
+        "surface": "#1A2028"
+      },
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "daylight-walk",
+      "name": "Daylight Walk",
+      "description": "Four girls walking out in bright daylight, easy and unhurried.",
+      "author": "momusic",
+      "file": "packs/daylight-walk.zip",
+      "thumb": "thumbs/daylight-walk.jpg",
+      "sizeKb": 271,
+      "theme": {
+        "accent": "#A8C8E8",
+        "background": "#0B0D10",
+        "surface": "#1A2028"
+      },
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "four-portraits",
+      "name": "Four Portraits",
+      "description": "Four portraits in four colours, quiet faces in a row.",
+      "author": "momusic",
+      "file": "packs/four-portraits.zip",
+      "thumb": "thumbs/four-portraits.jpg",
+      "sizeKb": 251,
+      "theme": {
+        "accent": "#FFB0C8",
+        "background": "#0B0D10",
+        "surface": "#1A2028"
+      },
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "dark-stage-guitar",
+      "name": "Dark Stage Guitar",
+      "description": "Pink hair and a guitar against a dark stage, one light on her.",
+      "author": "momusic",
+      "file": "packs/dark-stage-guitar.zip",
+      "thumb": "thumbs/dark-stage-guitar.jpg",
+      "sizeKb": 198,
+      "theme": {
+        "accent": "#FF7FA0",
+        "background": "#0B0D10",
+        "surface": "#1A2028"
+      },
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "corridor-eight",
+      "name": "Corridor Eight",
+      "description": "The long tiled corridor, fluorescent and eerie, figures walking away.",
+      "author": "momusic",
+      "file": "packs/corridor-eight.zip",
+      "thumb": "thumbs/corridor-eight.jpg",
+      "sizeKb": 156,
+      "theme": {
+        "accent": "#B8D8C8",
+        "background": "#0B0D10",
+        "surface": "#1A2028"
+      },
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "derelict-song",
+      "name": "Derelict Song",
+      "description": "A girl with a guitar in a dark derelict room, the song the only warm thing.",
+      "author": "momusic",
+      "file": "packs/derelict-song.zip",
+      "thumb": "thumbs/derelict-song.jpg",
+      "sizeKb": 215,
+      "theme": {
+        "accent": "#D08FA8",
+        "background": "#0B0D10",
+        "surface": "#1A2028"
+      },
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "laundromat-bench",
+      "name": "Laundromat Bench",
+      "description": "A girl with a guitar on a laundromat bench, fluorescent hollow quiet.",
+      "author": "momusic",
+      "file": "packs/laundromat-bench.zip",
+      "thumb": "thumbs/laundromat-bench.jpg",
+      "sizeKb": 257,
+      "theme": {
+        "accent": "#FFB3C8",
+        "background": "#0B0D10",
+        "surface": "#1A2028"
+      },
+      "tags": [
+        "anime"
+      ]
+    }
+  ]
+}
